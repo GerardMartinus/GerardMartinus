@@ -1,4 +1,5 @@
-### Hi there 👋
+## Olá, me chamo Bruno Silva! 
+### Bem vindo ao meu perfil GitHub!
 
 <!--
 **GerardMartinus/GerardMartinus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
