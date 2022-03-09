@@ -1,4 +1,4 @@
-<h1 align="center" color="purple">Hy, my name is Bruno Silva</h1>
+<h1 align="center">Hy, my name is Bruno Silva</h1>
 <h3 align="center">I'm Front-End Student</h3>
 
 - 🔭 I’m currently working on [Fale com as minhas mãos](https://www.figma.com/proto/IzPlyJ67pdIbedXBJiz8uR/Untitled?node-id=3%3A20&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A20)
