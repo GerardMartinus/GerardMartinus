@@ -1,6 +1,6 @@
 <h1 align="center">Hy, my name is Bruno Silva</h1>
 <h3 align="center">I'm Front-End Student</h3>
-<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/H2Vnn9B/photo-2021-12-23-11-04-10-removebg-preview.png">
+<img align="right" width="250px" style="margin-top:-20px" src="blob:https://web.whatsapp.com/d867d34d-a762-4945-a52c-b33756c8ebd1">
 - 🔭 I’m currently working on [Fale com as minhas mãos](https://www.figma.com/proto/IzPlyJ67pdIbedXBJiz8uR/Untitled?node-id=3%3A20&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A20)
 
 - 🌱 I’m currently learning **Figma, CSS and Java**
