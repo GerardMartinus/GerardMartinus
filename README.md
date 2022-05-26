@@ -1,12 +1,12 @@
 <h1 align="center">Hy, my name is Bruno Silva</h1>
 <h3 align="center">I'm Front-End Student</h3>
-- 🔭 I’m currently working on [Fale com as minhas mãos] and [Loquei]
+🔭 I’m currently working on [Fale com as minhas mãos] and [Loquei]
 
-- 🌱 I’m currently learning **Figma, CSS and Java**
+🌱 I’m currently learning **Figma, CSS and Java**
 
-- 📫 How to reach me **gerardmartinussilva@gmail.com**
+📫 How to reach me **gerardmartinussilva@gmail.com**
 
-- ⚡ Fun fact **I love Zelda and Pokemon**
+⚡ Fun fact **I love Zelda and Pokemon**
 <p align="left">
 </p>
 
