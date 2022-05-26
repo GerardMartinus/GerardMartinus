@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on [Fale com as minhas mãos] and [Loquei]
 
-🌱 I’m currently learning **Java**
+🌱 I’m currently learning **Java**, **Bootstrap** and **React**  
 
 📫 How to reach me **gerardmartinussilva@gmail.com**
 
