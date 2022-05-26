@@ -1,4 +1,4 @@
-<h1 align="center">Hy, my name is Bruno Silva</h1>
+<h1 align="center">Hy, my name is Bruno Martins de Morais Silva</h1>
 <h3 align="center">I'm Front-End Student</h3>
 
 🔭 I’m currently working on [Fale com as minhas mãos] and [Loquei]
@@ -17,17 +17,17 @@
 <h3 align="left">I’m currently learning:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
 
-### Contatos:
-
-<div>
-<a href = "mailto:gerardmartinussilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gerardmartinus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
 <div>
 <a href="https://github.com/GerardMartinus">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerardmartinus&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GerardMartinus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  
+  ### Contatos:
+
+<div>
+<a href = "mailto:gerardmartinussilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gerardmartinus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ##
