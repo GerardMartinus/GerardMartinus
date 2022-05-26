@@ -1,8 +1,7 @@
 <h1 align="center">Hy, my name is Bruno Silva</h1>
 <h3 align="center">I'm Front-End Student</h3>
-🔭 I’m currently working on [Fale com as minhas mãos] and [Loquei]
 
-🌱 I’m currently working on [Fale com as minhas mãos] and [Loquei]
+🔭 I’m currently working on [Fale com as minhas mãos] and [Loquei]
 
 🌱 I’m currently learning **Figma, CSS and Java**
 
