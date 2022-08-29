@@ -1,9 +1,9 @@
 <h1 align="center">Hy, my name is Bruno Martins de Morais Silva</h1>
 <h3 align="center">I'm Front-End Student</h3>
 
-🔭 I’m currently working on [Fale com as minhas mãos] and [Loquei]
+🔭 I’m currently working on [Mobster Rage and Blues]
 
-🌱 I’m currently learning **Java**, **Bootstrap** and **React**  
+🌱 I’m currently learning **Java** and **React**  
 
 📫 How to reach me **gerardmartinussilva@gmail.com**
 
@@ -28,9 +28,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
 <div>
