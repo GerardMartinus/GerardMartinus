@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on [Mobster Rage and Blues]
 
-🌱 I’m currently learning **Java** and **React**  
+🌱 I’m currently learning **Javascript**, **ReactJS**, **Construct 3** 
 
 📫 How to reach me **gerardmartinussilva@gmail.com**
 
