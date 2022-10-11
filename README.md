@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, my name is Bruno Martins de Morais Silva</h1>
-<h3 align="center">I'm Digital Game Programming Student and Front End</h3>
+<h3 align="center">I'm Digital Game Programming Student and Front End Developer</h3>
 
 🔭 I’m currently working on [Metro Project]
 
