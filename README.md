@@ -11,10 +11,22 @@
 
 <h3 align="left">Languages and Tools I know :</h3>
 <p align="left">
+
+  <!--  Languages  -->
+  
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40"/> </a>
+  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+</p>
+
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> </a> 
+  
+<a href="https://unity.com/pt" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /> /a> 
+  
 </p>
 
 <h3 align="left">I’m currently learning:</h3>
