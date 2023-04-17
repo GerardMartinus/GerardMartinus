@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, my name is Bruno Martins de Morais Silva</h1>
-<h3 align="center">I'm Front End Developer and Digital Game Programming Student  </h3>
+<h3 align="center" class="text-primary">I'm Front End Developer and Digital Game Programming Student  </h3>
 
 📫 How to reach me **gerardmartinussilva@gmail.com**
 
