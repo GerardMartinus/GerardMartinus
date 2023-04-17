@@ -19,7 +19,7 @@
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/> </a> 
   
-<a href="https://getbootstrap.com/" target"_blank" rel="noreferrer">
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/> </a>
   
 <a href="https://unity.com/pt" target="_blank" rel="noreferrer"> 
