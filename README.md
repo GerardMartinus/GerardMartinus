@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/> </a>
   
 <a href="https://unity.com/pt" target="_blank" rel="noreferrer"> 
-  <i class="devicon-unity-original-wordmark"></i> </a> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" /> </a> 
   
 </p>
 
