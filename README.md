@@ -1,13 +1,9 @@
 <h1 align="center">Hello there, my name is Bruno Martins de Morais Silva</h1>
-<h3 align="center">I'm Digital Game Programming Student and Front End Developer</h3>
-
-🔭 I’m currently working on [Metro Project]
+<h3 align="center">I'm Front End Developer and Digital Game Programming Student  </h3>
 
 📫 How to reach me **gerardmartinussilva@gmail.com**
 
 ⚡ Fun fact **I love Zelda and Pokemon**
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools I know :</h3>
 <p align="left">
@@ -25,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/> </a> 
   
 <a href="https://unity.com/pt" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/> </a> 
+  <i class="devicon-unity-original-wordmark"></i> </a> 
   
 </p>
 
