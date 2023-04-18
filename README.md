@@ -1,5 +1,5 @@
-<h1 align="center">Hello there, my name is Bruno Martins de Morais Silva</h1>
-<h3 align="center">I'm Front End Developer and Digital Game Programming Student  </h3>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!)](https://git.io/typing-svg)<br>
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Bruno+Martins+de+Morais+Silva;I'm+Front+End+Developer+and+Digital+Game+Programming+Student)](https://git.io/typing-svg)
 
 📫 How to reach me **gerardmartinussilva@gmail.com**
 
