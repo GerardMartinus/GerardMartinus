@@ -1,7 +1,9 @@
+<center>
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!)](https://git.io/typing-svg)<br>
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Bruno+Silva)](https://git.io/typing-svg)
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Front+End+Developer+and+Digital+Game+Programming+Student)](https://git.io/typing-svg)
-
+</center>
+  
 📫 How to reach me **gerardmartinussilva@gmail.com**
 
 ⚡ Fun fact **I love Zelda and Pokemon**
