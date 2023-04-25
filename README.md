@@ -2,7 +2,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Bruno+Silva)](https://git.io/typing-svg)
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Front+End+Developer+and+Digital+Game+Programming+Student)](https://git.io/typing-svg)
 
-<h3 align="left">Languages and Tools I know :</h3>
+<h3 align="left">Languages and tools I currently work with :</h3>
 <p align="left">
 
   <!--  Languages  -->
