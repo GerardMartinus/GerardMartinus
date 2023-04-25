@@ -31,6 +31,9 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
           
+<a href="https://github.com/" target="_blank" rel="noreferrer">    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+          
 </p>
 
 <h3 align="left">I’m currently learning:</h3>
