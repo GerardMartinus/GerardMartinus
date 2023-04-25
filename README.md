@@ -28,6 +28,9 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> </a>
   
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+          
 </p>
 
 <h3 align="left">I’m currently learning:</h3>
