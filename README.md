@@ -19,6 +19,18 @@
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/> </a>
   
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+          
+<a href="https://github.com/" target="_blank" rel="noreferrer">    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+          
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
+  
+          
+<h3 align="left">Languages and tools that I currently like to study :</h3>
+  
 <a href="https://unity.com/pt" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="40" height="40"/> </a> 
 
@@ -28,15 +40,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> </a>
   
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-          
-<a href="https://github.com/" target="_blank" rel="noreferrer">    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-          
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
-          
 </p>
 
 <h3 align="left">I’m currently learning:</h3>
