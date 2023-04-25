@@ -34,6 +34,9 @@
 <a href="https://github.com/" target="_blank" rel="noreferrer">    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
           
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
+          
 </p>
 
 <h3 align="left">I’m currently learning:</h3>
