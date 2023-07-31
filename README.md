@@ -1,5 +1,5 @@
-#Hello World!
-##I'm Bruno Silva, digital games student, software developer at Catskillet and enthusiast for games and technology
+# Hello World!
+## I'm Bruno Silva, digital games student, software developer at Catskillet and enthusiast for games and technology
 
 <h3 align="center">Languages and tools I currently work with :</h3>
 
