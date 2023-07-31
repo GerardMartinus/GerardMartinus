@@ -2,8 +2,9 @@
 <h4 align="center">I'm Bruno Silva, digital games student, software developer at Catskillet and passionate about games and technology</h4>
 
 <h3 align="center">Languages and tools I currently work with :</h3>
-  <p align="center>
-    
+
+<div align="center">
+  
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="30" height="30"/> </a>
   
@@ -24,8 +25,7 @@
           
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30" height="30"/>
-    </p>
-  
+</div>
           
 <h3 align="center">Languages and tools that I currently like to study :</h3>
   
