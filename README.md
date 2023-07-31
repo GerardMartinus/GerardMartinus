@@ -1,8 +1,8 @@
 <h1 align="center">Hello World!</h1> 
 <h2 align="center">I'm Bruno Silva, digital games student, software developer at Catskillet and enthusiast for games and technology</h2> 
 
-<div align="center">
 ## Languages and tools I currently work with :
+<div align="center">
   
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="75" height="75"/> </a>
