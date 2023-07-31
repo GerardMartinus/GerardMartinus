@@ -30,8 +30,8 @@
 
 <div align="center">
 
-<a href="https://unity.com/pt" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="30" style="background-color:white;" height="30"/> </a> 
+<a href="https://unity.com/pt" target="_blank" rel="noreferrer" style="background-color:white;"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="30" height="30"/> </a> 
 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="30" height="30"/>          
