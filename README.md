@@ -44,6 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="75" height="75"/> </a> 
 </div>
 
+<br>
+
 <div align="center">  
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardMartinus&layout=compact&langs_count=7&theme=synthwave" min-width="400px" align="center"/>
 
