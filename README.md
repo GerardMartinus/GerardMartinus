@@ -1,4 +1,5 @@
 <h2 align="center">I'm Bruno Silva, digital games student, software developer at Catskillet and enthusiast for games and technology</h2>
+<br>
 
 <h3 align="center">Languages and tools I currently work with :</h3>
 
