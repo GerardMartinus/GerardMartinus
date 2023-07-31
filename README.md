@@ -47,12 +47,12 @@
 <div align="center">  
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardMartinus&layout=compact&langs_count=7&theme=synthwave" min-width="400px" align="center"/>
 
-<h3 align="left"> Know my works </h3>
-<a href = "https://gerardmartinus.itch.io/" align="left"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
-<a href = "https://www.twitch.tv/geeks_e_gatos" align="left"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>	
-<a href = "https://www.instagram.com/geeks_e_gatos/" align="left"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	
+<h3> Know my works </h3>
+<a href = "https://gerardmartinus.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
+<a href = "https://www.twitch.tv/geeks_e_gatos"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>	
+<a href = "https://www.instagram.com/geeks_e_gatos/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	
 
-<h3 align="left"> Contact me </h3>
-<a href = "mailto:gerardmartinussilva@gmail.com" align="left"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gerardmartinus" target="_blank" align="left"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<h3> Contact me </h3>
+<a href = "mailto:gerardmartinussilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gerardmartinus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
