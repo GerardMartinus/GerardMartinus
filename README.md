@@ -1,4 +1,6 @@
+<div align="center">
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there!)](https://git.io/typing-svg)<br>
+</div>
 <h4 align="center">I'm Bruno Silva, digital games student, software developer at Catskillet and passionate about games and technology</h4>
 
 <h3 align="center">Languages and tools I currently work with :</h3>
@@ -52,6 +54,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="30" height="30"/> </a> 
 
 </div>
+
+<br><br><br>
 
 <div align="center">
 
