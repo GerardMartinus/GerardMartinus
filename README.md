@@ -57,14 +57,14 @@
 </div>
 </div>
 
-<div min-width="400px" max-width="400px" width="100%" align="right">
+<div min-width="200px" max-width="400px" width="100%" align="right">
 <h3> Know my works </h3>
 <a href = "https://gerardmartinus.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
 <a href = "https://www.twitch.tv/geeks_e_gatos"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>	
 <a href = "https://www.instagram.com/geeks_e_gatos/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	
 </div>
 
-<div min-width="400px" max-width="400px" width="100%" align="left">
+<div min-width="200px" max-width="400px" width="100%" align="left">
 <h3> Contact me </h3>
 <a href = "mailto:gerardmartinussilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gerardmartinus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
