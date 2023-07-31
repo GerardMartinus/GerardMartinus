@@ -28,6 +28,8 @@
 </div>
           
 <h3 align="center">Languages and tools that I currently like to study :</h3>
+
+<div align="center">
   
 <a href="https://unity.com/pt" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="30" height="30"/> </a> 
@@ -38,6 +40,9 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30" height="30"/> </a>
   
+</div>
+
+<div align="center">
 
 <h3 align="center">I’m currently learning:</h3>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
@@ -45,7 +50,8 @@
   
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="30" height="30"/> </a> 
-  
+
+</div>
   ### Contatos:
 
 <div>
