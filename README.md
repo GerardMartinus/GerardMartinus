@@ -1,8 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there!)](https://git.io/typing-svg)<br>
 <h4 align="center">I'm Bruno Silva, digital games student, software developer at Catskillet and passionate about games and technology</h4>
 
-<h3 align="left">Languages and tools I currently work with :</h3>
-<p align="left">
+<h3 align="center">Languages and tools I currently work with :</h3>
+<p align="center">
 
   <!--  Languages  -->
   
@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30" height="30"/>
   
           
-<h3 align="left">Languages and tools that I currently like to study :</h3>
+<h3 align="center">Languages and tools that I currently like to study :</h3>
   
 <a href="https://unity.com/pt" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="30" height="30"/> </a> 
@@ -41,7 +41,7 @@
   
 </p>
 
-<h3 align="left">I’m currently learning:</h3>
+<h3 align="center">I’m currently learning:</h3>
 <p align="left"> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30"/> </a> 
