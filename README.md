@@ -74,7 +74,7 @@
 </div>
 </div>
 
-<div>
+<div align="center">
 <div align="right">
 <h3> Know my works </h3>
 
