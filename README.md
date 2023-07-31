@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="75" height="75"/> </a> 
 </div>
 
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardMartinus&layout=compact&langs_count=7&theme=synthwave" min-width="400px" max-width="400px" width="400px" align="right"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardMartinus&layout=compact&langs_count=7&theme=synthwave" min-width="400px" align="center"/>
 
 <h3 align="left"> Know my works </h3>
 <a href = "https://gerardmartinus.itch.io/" align="left"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
