@@ -71,6 +71,10 @@
 
 <br>
 
+</div>
+</div>
+
+<div>
 <div align="left">
 <h3> Contact me </h3>
 
@@ -90,5 +94,3 @@
 
 </div>
 </div>
-</div>
-
