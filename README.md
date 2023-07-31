@@ -89,6 +89,5 @@
 
 </div>
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GerardMartinus&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 </div>
 
