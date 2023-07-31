@@ -1,5 +1,5 @@
 <h1 align="center">Hello World!</h1> 
-<h2 align="center" margin="20px">I'm Bruno Silva, digital games student, software developer at Catskillet and enthusiast for games and technology</h2> 
+<h2 align="center">I'm Bruno Silva, digital games student, software developer at Catskillet and enthusiast for games and technology</h2> 
 
 <h3 align="center">Languages and tools I currently work with :</h3>
 
