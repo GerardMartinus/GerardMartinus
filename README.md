@@ -1,6 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there!)](https://git.io/typing-svg)<br>
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Bruno+Silva+and+I'm)](https://git.io/typing-svg)
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Front+End+Dev+and+Game+Dev+Student)](https://git.io/typing-svg)
+<h2>I'm Bruno Silva, digital games student, software developer at Catskillet and passionate about games and technology</h2>
 
 <h3 align="left">Languages and tools I currently work with :</h3>
 <p align="left">
