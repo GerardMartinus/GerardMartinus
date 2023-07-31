@@ -57,6 +57,7 @@
 </div>
 </div>
 
+<div width="100%">
 <div width="50%" align="right">
 <h3> Know my works </h3>
 <a href = "https://gerardmartinus.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
@@ -68,4 +69,5 @@
 <h3> Contact me </h3>
 <a href = "mailto:gerardmartinussilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gerardmartinus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 </div>
