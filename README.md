@@ -44,6 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="75" height="75"/> </a> 
 </div>
 
+<div align="center">  
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardMartinus&layout=compact&langs_count=7&theme=synthwave" min-width="400px" align="center"/>
 
 <h3 align="left"> Know my works </h3>
@@ -54,3 +55,4 @@
 <h3 align="left"> Contact me </h3>
 <a href = "mailto:gerardmartinussilva@gmail.com" align="left"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gerardmartinus" target="_blank" align="left"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
