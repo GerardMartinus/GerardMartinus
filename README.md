@@ -81,7 +81,8 @@
 <h3> Know my works </h3>
 
 <a href = "https://gerardmartinus.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
-	
+
+<a href = "https://www.twitch.tv/geeks_e_gatos"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>	
 
 </div>
 
