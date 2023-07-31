@@ -1,4 +1,4 @@
-![image](https://github.com/GerardMartinus/GerardMartinus/assets/64562498/81dbf4f8-777c-4693-98aa-06ea47004ace)<h1 align="center">Hello World!</h1> 
+<h1 align="center">Hello World!</h1> 
 <h2 align="center">I'm Bruno Silva, digital games student, software developer at Catskillet and enthusiast for games and technology</h2> 
 
 - 🌱 I’m currently learning Unity, Blender, React, Python
