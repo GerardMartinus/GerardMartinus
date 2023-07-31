@@ -60,7 +60,7 @@
 <br>
 
 
-<div align="left">
+<div align="center">
 
 <div>
 <a href="https://github.com/GerardMartinus">
