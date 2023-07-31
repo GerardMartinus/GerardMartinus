@@ -9,6 +9,8 @@
 <h2 align="center"> Languages and tools I currently work with :</h2>
 
 <div align="center">  
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+  
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="75" height="75"/> </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
