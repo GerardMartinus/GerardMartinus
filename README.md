@@ -13,16 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="75" height="75"/> </a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="75" height="75"/> </a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="75" height="75"/> </a> 
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="75" height="75"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="75" height="75"/>
-<a href="https://github.com/" target="_blank" rel="noreferrer">    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="75" height="75"/>
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="75" height="75"/>
 </div>
           
 <h3 align="center">Languages and tools that I currently like to study :</h3>
