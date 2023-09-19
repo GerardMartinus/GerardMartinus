@@ -34,6 +34,8 @@
 <h3>I’m currently learning:</h3>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="75" height="75"/> </a>
+<a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="75" height="75"/> </a>
           
 </div>
 
