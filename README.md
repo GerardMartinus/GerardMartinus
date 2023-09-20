@@ -1,9 +1,9 @@
 <h1 align="center">Hello World!</h1> 
 <h2 align="center">I'm Bruno Silva, digital games student, software developer at Catskillet and enthusiast for games and technology</h2> 
 
-- 🌱 I’m currently learning Unity, Blender, React, Python
+- 🌱 I’m currently learning Spring Boot, Java
 - 👯 I’m looking to collaborate on game development!
-- 💬 Ask me about games 🎮!
+- 💬 Ask me about games, programming, photography, music and technology 🎮!
 - ⚡ Fun fact: I am a regional winner of Mario Kart 8 Deluxe 🏎️💨 and I have the champion rank in Rocket League ⚽
 
 <h2 align="center"> Languages and tools I currently work with :</h2>
