@@ -1,7 +1,7 @@
 <h1 align="center">Hello World!</h1> 
-<h2 align="center">I'm Bruno Silva, digital games student, software developer at Catskillet and enthusiast for games and technology</h2> 
+<h2 align="center">I'm Bruno Silva, Game Developer at DevCats, software developer and enthusiast for Games, Technology and Music</h2> 
 
-- 🌱 I’m currently learning Spring Boot, Java
+- 🌱 I’m currently learning Godot, Unity and GameMaker Studio
 - 👯 I’m looking to collaborate on game development!
 - 💬 Ask me about games, programming, photography, music and technology 🎮!
 - ⚡ Fun fact: I am a regional winner of Mario Kart 8 Deluxe 🏎️💨 and I have the champion rank in Rocket League ⚽
@@ -38,7 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="75" height="75"/> </a>
 <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="75" height="75"/> </a>
-          
 </div>
 
 <br>
