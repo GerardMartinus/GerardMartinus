@@ -1,7 +1,7 @@
 <h1 align="center">Hello World!</h1> 
 <h2 align="center">I'm Bruno Silva, Game Developer at DevCats, software developer and enthusiast for Games, Technology and Music</h2> 
 
-- 🌱 I’m currently learning Godot, Unity and GameMaker Studio
+- 🌱 I’m currently learning Godot and Unity
 - 👯 I’m looking to collaborate on game development!
 - 💬 Ask me about games, programming, photography, music and technology 🎮!
 - ⚡ Fun fact: I am a regional winner of Mario Kart 8 Deluxe 🏎️💨 and I have the champion rank in Rocket League ⚽
