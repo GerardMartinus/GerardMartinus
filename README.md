@@ -1,4 +1,4 @@
-<p align="center">![Banner](./gerard-logo-background.png)</p>
+<div align="center">![Banner](./gerard-logo-background.png)</div>
 <h2 align="center">I'm Bruno Silva, Game Developer, software developer and enthusiast for Games, Technology and Music</h2> 
 
 - 🌱 I’m currently learning Godot and Unity
