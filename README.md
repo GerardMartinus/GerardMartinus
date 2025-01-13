@@ -6,38 +6,24 @@
 - 💬 Ask me about games, programming, photography, music and technology 🎮!
 - ⚡ Fun fact: I am a regional winner of Mario Kart 8 Deluxe 🏎️💨 and I have the champion rank in Rocket League ⚽
 
-<h2 align="center"> Languages and tools I currently work with :</h2>
+<h2 align="center">Languages I currently work with :</h2>
 
 <div align="center">  
-<a href="https://angular.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="75" height="75"/> </a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="75" height="75"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="75" height="75"/> </a> 
-<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="75" height="75"/> </a> 
+<a href="https://www.godotengine.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="75" height="75"/> </a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="75" height="75"/> </a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" height="75"/> </a>
 </div>
-          
-<h3 align="center">Languages and tools that I currently like to study :</h3>
 
-<div align="center">
-<a href="https://unity.com/pt" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="75" height="75"/> </a> 
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="75" height="75"/>          
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="75" height="75"/> </a>
+<h2 align="center">Engines I currently work with :</h2>
+
+<div align="center">  
 <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="75" height="75"/> </a>
-</div>
-
-<div align="center">
-<h3>I’m currently learning:</h3>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="75" height="75"/> </a>
-<a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="75" height="75"/> </a>
+<a href="https://unity.com/pt" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="75" height="75"/> </a>
 </div>
 
 <br>
