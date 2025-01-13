@@ -1,5 +1,4 @@
-<h1 align="center">Hello World!</h1> 
-<h2 align="center">I'm Bruno Silva, Game Developer at DevCats, software developer and enthusiast for Games, Technology and Music</h2> 
+<h2 align="center">I'm Bruno Silva, Game Developer, software developer and enthusiast for Games, Technology and Music</h2> 
 
 - 🌱 I’m currently learning Godot and Unity
 - 👯 I’m looking to collaborate on game development!
@@ -9,8 +8,6 @@
 <h2 align="center">Languages I currently work with :</h2>
 
 <div align="center">  
-<a href="https://www.godotengine.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="75" height="75"/> </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="75" height="75"/> </a>
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
