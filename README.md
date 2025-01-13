@@ -1,6 +1,4 @@
-<h1 align="center">
-  <span style="color: #FF5733;">Gerard Game Dev</span>
-</h1>
+<h1 align="center">Gerard Game Dev</h1>
 
 <p align="center">
   <img src="https://github.com/GerardMartinus/GerardMartinus/blob/main/gerard-logo-without-background.png" alt="Banner">
