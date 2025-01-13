@@ -1,42 +1,72 @@
-<h1 align="center">Hello World!</h1> 
-<h2 align="center">I'm Bruno Silva, Game Developer at DevCats, software developer and enthusiast for Games, Technology and Music</h2> 
+# 🎮 **Bruno Silva - Game Developer** 🕹️
 
-- 🌱 I’m currently learning Godot and Unity
-- 👯 I’m looking to collaborate on game development!
-- 💬 Ask me about games, programming, photography, music and technology 🎮!
-- ⚡ Fun fact: I am a regional winner of Mario Kart 8 Deluxe 🏎️💨 and I have the champion rank in Rocket League ⚽
+## 🔥 **Status: On Fire** 🔥
 
-<h2 align="center">Languages I currently work with :</h2>
+- **Currently Learning:**  
+   💻 **Godot** & **Unity**  
+- **Level:** 💬 **Looking to collaborate in game dev**  
+- **Achievements:** 🏆  
+   - **Regional Winner:** *Mario Kart 8 Deluxe* 🏎️💨  
+   - **Champion Rank:** *Rocket League* ⚽  
+   - **Game Dev Enthusiast** 🎮
 
-<div align="center">  
-<a href="https://www.godotengine.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="75" height="75"/> </a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="75" height="75"/> </a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" height="75"/> </a>
-</div>
+---
 
-<h2 align="center">Engines I currently work with :</h2>
+## 🕹️ **Languages & Tools I Use:**  
 
-<div align="center">  
-<a href="https://godotengine.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="75" height="75"/> </a>
-<a href="https://unity.com/pt" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="75" height="75"/> </a>
-</div>
+🔧 **Languages:**
 
-<br>
+- **GDScript** (Godot Engine)  
+- **C#** (Unity)  
+- **JavaScript** (Web Development)
 
-<div align="center">  
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardMartinus&layout=compact&langs_count=7&theme=synthwave" min-width="400px" align="center"/>
+🛠️ **Tools I Love:**
 
-<h3> Know my works </h3>
-<a href = "https://gerardmartinus.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
-<a href = "https://www.twitch.tv/geeks_e_gatos"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>	
-<a href = "https://www.instagram.com/geeks_e_gatos/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>	
+- **[Godot Engine](https://godotengine.org/)**  
+- **[Unity](https://unity.com/)**
 
-<h3> Contact me </h3>
-<a href = "mailto:gerardmartinussilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gerardmartinus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+---
+
+## 🚀 **Engines I Currently Work With:**
+
+🎮 **Game Engines:**
+
+- **[Godot](https://godotengine.org/)**  
+  ![Godot](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg)
+- **[Unity](https://unity.com/)**  
+  ![Unity](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg)
+
+---
+
+## 🎯 **Current Mission:**
+
+**Learning:**  
+- 🔬 *Exploring new technologies to level up*  
+- 🛠️ *Building cool projects to share with the world*  
+
+---
+
+## 🎮 **My Works**  
+Check out some of the projects I’ve been working on:
+
+- **[My Itch.io Projects](https://gerardmartinus.itch.io/)**  
+   ![Itch.io Badge](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)
+
+- **[My Twitch Stream](https://www.twitch.tv/geeks_e_gatos)**  
+   ![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
+
+- **[Instagram - Geeks e Gatos](https://www.instagram.com/geeks_e_gatos/)**  
+   ![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
+---
+
+## ⚡ **Contact Me:**  
+Feel free to reach out for collabs, questions, or just to chat!
+
+- ✉️ **[Email me](mailto:gerardmartinussilva@gmail.com)**  
+   ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+- 💼 **[LinkedIn](https://www.linkedin.com/in/gerardmartinus)**  
+   ![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+---
