@@ -1,8 +1,4 @@
-<h1 align="center">Gerard Game Dev</h1>
-
-<p align="center">
-  <img src="https://github.com/GerardMartinus/GerardMartinus/blob/main/gerard-logo-without-background.png" alt="Banner">
-</p>
+<h1 align="center">Bruno Silva Game Dev</h1>
 
 <h2 align="center">I'm Bruno Silva, Game Developer, software developer and enthusiast for Games, Technology and Music</h2> 
 
